@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "909142507218",
+    "firebase_url": "https://coral-76d90.firebaseio.com",
+    "project_id": "coral-76d90",
+    "storage_bucket": "coral-76d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909142507218:android:1330e1a61b8ceac9b9770b",
+        "android_client_info": {
+          "package_name": "br.utfpr.lapti.coral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909142507218-t0ccqeuki7mfvug31ijdl0upnfjm9hlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwVHrDUItlfsf-7aW_-1ZB6gMBq_mrczo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909142507218-t0ccqeuki7mfvug31ijdl0upnfjm9hlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909142507218:android:c6f809fef5e71619b9770b",
+        "android_client_info": {
+          "package_name": "com.example.Canto_Coral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909142507218-t0ccqeuki7mfvug31ijdl0upnfjm9hlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwVHrDUItlfsf-7aW_-1ZB6gMBq_mrczo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909142507218-t0ccqeuki7mfvug31ijdl0upnfjm9hlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
